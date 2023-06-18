@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hemanth Mandapati</h1>
-<h3 align="center">Actively looking for Full-Time Software Engineer Opportunities | MS in CS@USC | Ex-Amazon | Python | Java | React | Node | TypeScript | Golang | AWS <br><br> I love working on personal projects to develop my skills. Please take a look at my repositories for the same.<br> Many more on the way!</h3>
+<h3 align="center">Actively looking for Full-Time Software Engineer Opportunities | MS in CS@USC | Ex-Amazon | Python | Java | React | Node | TypeScript | Golang | AWS <br><br> I love working on personal projects to develop my skills. Please take a look at my repositories.<br> Many more on the way!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth2618&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth2618" /> </p>
 
