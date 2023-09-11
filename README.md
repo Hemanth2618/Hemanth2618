@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Coding, System Design**
 
-- 📫 How to reach me **mandapat@usc.edu**
+- 📫 How to reach me **hemanth.mandapati01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
